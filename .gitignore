@@ -1,4 +1,7 @@
+@"
 __pycache__/
 .pytest_cache/
 venv/
+.vscode/
 *.html
+"@ | Out-File -Encoding utf8 .gitignore
